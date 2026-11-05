@@ -17,7 +17,7 @@ Como Cientista de Dados no Squad WhatsApp, seu objetivo é criar a **Inteligênc
 1. Faça um fork do repositório do desafio para colocar a sua solução
 2. Use **Jupyter Notebooks** (.ipynb) bem documentados ou scripts Python/SQL
 3. Inclua **README.md** explicando sua abordagem, premissas e como reproduzir
-4. **Entrega**: Envie o link do repositório para `selecao.pcrj@gmail.com`
+4. **Entrega**: Siga o passo a passo enviado por email para entrega da sua solução
 
 ---
 
@@ -108,6 +108,6 @@ Sim, mas o core da análise e a lógica do algoritmo devem estar documentados no
 
 ## Contato
 
-Dúvidas? Mande um e-mail para `patricia.catandi@prefeitura.rio` com o título começando com `[CASE DS]` 
+Dúvidas? Responda diretamente ao email no qual você recebeu o desafio 😉
 
 Boa sorte! 🚀
